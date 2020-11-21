@@ -1,0 +1,14 @@
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Week1Challenge.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Week1Challenge.pdb
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.csproj.CopyComplete
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.dll
+D:\ElevenFiftyProjects\Challenges\Week1Challenge\Week1Challenge\obj\Debug\Week1Challenge.pdb
